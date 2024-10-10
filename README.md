@@ -8,12 +8,12 @@ In this project, we are working for a company named OilyGiant. We are tasked wit
 ## Data Description
 Geological exploration data for the three regions are stored in files:
 
-`geo_data_0.csv`
-`geo_data_1.csv`
-`geo_data_2.csv`
-`id` — unique oil well identifier
-`f0, f1, f2` — three features of points (their specific meaning is unimportant, but the features themselves are significant)
-`product` — volume of reserves in the oil well (thousand barrels).
+- `geo_data_0.csv`
+- `geo_data_1.csv`
+- `geo_data_2.csv`
+- `id` — unique oil well identifier
+- `f0, f1, f2` — three features of points (their specific meaning is unimportant, but the features themselves are significant)
+- `product` — volume of reserves in the oil well (thousand barrels).
 
 
  ## Conclusion
